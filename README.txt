@@ -9,4 +9,6 @@
 
 3. PERSONALIZAR:
    - Cambia los GIFs o música reemplazando los archivos.
-   - Edita los textos en "Joye.html".
+   - Edita los textos en "index.html".
+
+La ruta es: https://armando7siu.github.io/mi-tarjeta-amor/
